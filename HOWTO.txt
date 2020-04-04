@@ -1,0 +1,15 @@
+Download sdk for Windows or Linux (or let me know if you use mac like I do, I have a version for that too unreleased)
+https://platform.nidulus.io
+
+unzip
+
+usage:
+
+sdk.exe --new demand_add
+sdk.exe --build demand_add
+
+This will generate a builds/demand_add.zip in your sdk folder. This is used for new services or updated services (always build after changing) to be uploaded in the web gui for the platform.
+
+go to http://188.212.108.155:7999/ and login with admin/password
+Click on "Process Llist
+Click on "Services" and "Add new Service", or find the existing and click Update. Upload the zip
