@@ -1,0 +1,15 @@
+{
+    "name": "demand_add",
+    "version": "1.0.0",
+    "description": "",
+    "main": "svc.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "demand_add"
+    ],
+    "author": "",
+    "license": "Custom",
+    "dependencies": {}
+}

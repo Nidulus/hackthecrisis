@@ -1,0 +1,15 @@
+{
+    "name": "supply_remove",
+    "version": "1.0.0",
+    "description": "",
+    "main": "svc.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "supply_remove"
+    ],
+    "author": "",
+    "license": "Custom",
+    "dependencies": {}
+}
