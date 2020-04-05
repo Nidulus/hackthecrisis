@@ -11,5 +11,7 @@
     ],
     "author": "",
     "license": "Custom",
-    "dependencies": {}
+    "dependencies": {
+        "pg": "^8.0.0"
+    }
 }

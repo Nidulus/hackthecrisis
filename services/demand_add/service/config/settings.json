@@ -1,1 +1,9 @@
-{}
+{
+    "pg": {
+        "user": "postgres",
+        "host": "localhost",
+        "db": "postgres",
+        "password": "supersecret",
+        "port": 5432
+      }
+}
